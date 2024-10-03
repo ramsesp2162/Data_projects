@@ -4,6 +4,7 @@ ETL Sample: Analyzing the Relationship Between Gun Violence and School Ratings i
 This repository showcases a sample ETL (Extract, Transform, Load) project designed to demonstrate data analytics proficiency.
 
 🔍 Open in Google Colab to explore interactive visualizations, including maps rendered from the data.
+
 Project Overview
 
 Inspired by an assignment from ISTA, this analysis integrates two datasets from the City of Chicago: one detailing school names, locations, and ratings, and the other tracking gun violence incidents in the area. The primary objective of this analysis is to investigate the correlation between gun violence incidents and school proficiency and safety ratings.
