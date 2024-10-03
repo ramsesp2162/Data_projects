@@ -1,4 +1,4 @@
-Data Projects
+# Data Projects
 ETL Sample: Analyzing the Relationship Between Gun Violence and School Ratings in Chicago
 
 This repository showcases a sample ETL (Extract, Transform, Load) project designed to demonstrate data analytics proficiency.
