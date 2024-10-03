@@ -3,7 +3,7 @@ ETL Sample: Analyzing the Relationship Between Gun Violence and School Ratings i
 
 This repository showcases a sample ETL (Extract, Transform, Load) project designed to demonstrate data analytics proficiency.
 
-🔍 Open in Google Colab to explore interactive visualizations, including maps rendered from the data.
+🔍 [Open in Google Colab to explore interactive visualizations, including maps rendered from the data.](https://colab.research.google.com/github/ramsesp2162/Data_projects/blob/main/chicagoschools_gv_ETL.ipynb)
 
 **Project Overview**
 
